@@ -1,5 +1,8 @@
-
 /* Icons */
+
+.hidden {
+  display: none;
+}
 
 .right-arrow-icon {
   width: 16px;
